@@ -1,4 +1,4 @@
-- Hallo, I’m @ChrMonMor and this is my freetime github.
+- Heyo, I’m @ChrMonMor and this is my freetime github.
 I've made this account because I wanna try to be good at programming and do some fun stuff or something with it.
 My friends told me that this website (forward slash) comunity is a great place to create and learn, also seeing how much progress you have made.  
 
